@@ -1,0 +1,35 @@
+Session with Jamie
+Jamie: I want to know more about the university
+Apples: At Poppleton University, we take pride in our supportive community and diverse offerings. Would you like to hear about admissions, courses, or campus facilities?
+Apples: Oops! It seems we got disconnected. Please try again later.
+
+Session with Thomas
+Thomas: can you tell me about the admission
+Fantastic: For admission inquiries, please contact admissions@poppleton.ac.uk or visit the Admissions Office.
+Thomas: whats the time?
+Fantastic: The current date and time is: Thursday, 16 January 2025, 04:04 PM
+Thomas: bye
+Fantastic: It was nice talking to you, Thomas! Goodbye!
+
+Session with hello
+hello: & "C:/Program Files/Python312/python.exe" c:/Users/acer/Desktop/chatbot/chatbott.py
+Fantastic: I appreciate your curiosity!
+hello: bye
+Fantastic: It was nice talking to you, hello! Goodbye!
+
+Session with Rose
+Rose: I want to know more about the university
+Clove: At Poppleton University, we take pride in our supportive community and diverse offerings. Would you like to hear about admissions, courses, or campus facilities?
+Rose: id like to know more on admissions
+Clove: You can find admission details at our website: www.poppleton.ac.uk.
+Rose: courses?
+Clove: We offer a wide variety of courses. Check out the full list at the Courses section on our website.
+Rose: i want to know about the exam schedules
+Clove: I'm here to help! Ask me another question.
+Rose: bye
+Clove: It was nice talking to you, Rose! Goodbye!
+
+Session with Lewis
+Lewis: bye
+Sunday: It was nice talking to you, Lewis! Goodbye!
+

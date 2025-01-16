@@ -1,0 +1,55 @@
+{
+    "keywords": {
+        "admission": [
+            "You can find admission details at our website: www.poppleton.ac.uk.",
+            "For admission inquiries, please contact admissions@poppleton.ac.uk or visit the Admissions Office."
+        ],
+        "courses": [
+            "For details about the courses offered, visit www.poppleton.ac.uk/courses.",
+            "We offer a wide variety of courses. Check out the full list at the Courses section on our website."
+        ],
+        "events": [
+            "Upcoming events can be found on our university calendar: www.poppleton.ac.uk/events.",
+            "Don't miss the latest events happening on campus! Visit the Events page on our website."
+        ],
+        "cafeteria": [
+            "The cafeteria serves meals from 7 AM to 7 PM daily, with a variety of vegetarian and non-vegetarian options.",
+            "Craving a snack or meal? The cafeteria offers delicious options all day, from 7 AM to 7 PM."
+        ],
+        "library": [
+            "The library is open from 7 AM to 10 PM daily and offers both quiet and group study spaces.",
+            "Need a place to study? The library has you covered with extended hours from 7 AM to 10 PM."
+        ],
+        "student services": [
+            "Student services can assist you with counseling, career advice, and more. Visit their office in Building B or email services@poppleton.ac.uk.",
+            "Need help with anything? Student services are here for you! Reach out via email or visit their office."
+        ],
+        "assessments": [
+            "Assessments schedules and guidelines can be found on the student portal at www.poppleton.ac.uk/assessments.",
+            "Make sure you're prepared for your assessments! Visit the portal for schedules and instructions."
+        ],
+        "sports": [
+            "Our sports center is open from 6 AM to 9 PM every day, offering facilities for various sports and fitness activities.",
+            "Want to stay active? Check out the sports center, open daily from 6 AM to 9 PM, with plenty of activities to choose from."
+        ],
+        "coffee": [
+            "The campus coffee bar is open from 8 AM to 8 PM, serving freshly brewed coffee and pastries.",
+            "Need a caffeine boost? The coffee bar is open from 8 AM to 8 PM with amazing brews and snacks."
+        ],
+        "dragons": [
+            "Ah, dragons! Unfortunately, we don't offer dragon-riding classes... yet. Stay tuned!",
+            "Dragons? Hmm, let me check... Nope, still no sightings on campus. But we do have great courses on mythology!"
+        ],
+        "university": [
+            "Poppleton University is renowned for its vibrant campus life and excellent academic programs. What would you like to know more about? Admissions, courses, events, or something else?",
+            "At Poppleton University, we take pride in our supportive community and diverse offerings. Would you like to hear about admissions, courses, or campus facilities?"
+        ]
+    },
+    "random_responses": [
+        "That's interesting! Tell me more.",
+        "Hmm, I see. Can you clarify?",
+        "I'm here to help! Ask me another question.",
+        "I appreciate your curiosity!",
+        "What else would you like to know?"
+    ]
+}

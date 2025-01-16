@@ -1,0 +1,9 @@
+2025-01-16 15:23:39.300294: Saved 1 teams to file.
+2025-01-16 15:23:39.301301: Saved 1 bookings to file.
+2025-01-16 15:23:39.301301: Application exited and all changes saved.
+2025-01-16 15:23:51.438662: Loaded teams from file.
+2025-01-16 15:23:51.442976: Loaded bookings from file.
+2025-01-16 15:24:01.503617: Loaded teams from file.
+2025-01-16 15:24:01.508619: Loaded bookings from file.
+2025-01-16 15:38:04.936145: Loaded teams from file.
+2025-01-16 15:38:04.941787: Loaded bookings from file.
